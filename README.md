@@ -1,2 +1,2 @@
-# aribnb-data-analysis
+# airbnb-data-analysis
 manipulating data with python libraries
